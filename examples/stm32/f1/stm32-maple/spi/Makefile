@@ -17,7 +17,7 @@
 ## along with this library.  If not, see <http://www.gnu.org/licenses/>.
 ##
 
-BINARY = usart
+BINARY = spi
 
 LDSCRIPT = ../stm32f103c8t6.ld
 
